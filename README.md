@@ -12,7 +12,7 @@
 <br>
 
 
-<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"  style="border-radius: 5px;" /> <img alt="Python" height="25" src="https://img.shields.io/badge/-Python-3776AB" />  <img alt="License" height="25" src="https://img.shields.io/badge/License-MIT-yellow" />
+<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white" /> <img alt="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>  <img alt="License" height="25" src="https://img.shields.io/badge/License-MIT-yellow" />
 
 ### :speech_balloon: This repo is the official implementation of:
 
