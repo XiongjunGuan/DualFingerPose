@@ -18,7 +18,7 @@
 
 - **_Under Review_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices]()
 
-[Xiongjun Guan](https://xiongjunguan.github.io/), Zhiyu Pan, Jianjiang Feng, Jie Zhou
+Xiongjun Guan, Zhiyu Pan, Jianjiang Feng, Jie Zhou
 
 ---
 
