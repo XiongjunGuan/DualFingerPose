@@ -1,0 +1,47 @@
+# train settings
+train_cfg:
+  # initial config
+  lr: 1.0e-3
+  end_lr: 1.0e-6
+  epochs: 80
+  batch_size: 2 # your batch size
+  cuda_ids: [2]
+
+  # lr iteration
+  scheduler_type: CosineAnnealingLR
+  optimizer: adamW
+
+  # save ckpts
+  ckpts_num: 2 # last n epotchs will be saved
+
+  # data augmentation
+  apply_aug: True
+  trans_aug: 40 # [-trans, trans] px
+  rot_aug: 180 # [-rot, rot] degree
+
+# traning database
+db_cfg:
+  train_info_path: # your train path
+  valid_info_path: # your test path
+
+# save settings
+save_cfg:
+  save_basedir: ./saved/
+  save_title: test # time / test
+
+# model settings
+model_cfg:
+  model_name: DualFingerPose
+  trans_out_form: claSum # claSum / claMax / reg
+  trans_num_classes: 512 # only valid when 'out_form' is 'cla...'
+  rot_out_form: claSum # claSum / claMax / reg_tan / reg_ang
+  rot_num_classes: 120 # only valid when 'out_form' is 'cla...'
+  inp_mode: patch_cap
+  inp_patch_size: 120
+
+# loss settings
+loss_cfg:
+  supervise_mode: rot_trans # rot / trans / rot_trans
+  trans_loss_form: CE # mse / SmoothL1 / L1 / CE
+  rot_loss_form: CE # mse / SmoothL1 / L1 / CE
+  trans_loss_weight: 1.0

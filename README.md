@@ -7,18 +7,29 @@
 
 # DualFingerPose
 
+
+
+
 <h5 align="left"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
 
 <br>
 
 
-<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white" /> <img alt="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>  <img alt="License" height="25" src="https://img.shields.io/badge/License-MIT-yellow" />
+<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white" /> 
+<img alt="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>  
+<img alt="License" height="25" src="https://img.shields.io/badge/License-MIT-yellow" /> 
+
+<a href="https://drive.google.com/file/d/13swViPqI8LNRa98-6YRdnxVGMY_9kakf/view?usp=drive_link">
+  <img alt="Demo Video" height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" />
+</a>
+
+
 
 ### :speech_balloon: This repo is the official implementation of:
 
 - **_Under Review_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices]()
 
-Xiongjun Guan, Zhiyu Pan, Jianjiang Feng, Jie Zhou
+[Xiongjun Guan](), Zhiyu Pan, Jianjiang Feng, Jie Zhou
 
 ---
 
@@ -68,6 +79,9 @@ tqdm==4.66.1
 <br>
 
 ## :train: Train
+
+:lock:  <span style="background-color:DarkSeaGreen;">Due to potential business collaborations, we are not considering disclosing training details at this time.</span>
+
 
 ### :pushpin: Image to 2D pose
 
@@ -125,7 +139,7 @@ python map_uv_3d.py
 
 ## :rocket: Inference
 
-The model weight can be download at this link.
+The model weight can be download at this [link](https://drive.google.com/drive/folders/1ccnuC8Ck1EkFTtuAcNZtUKDrmJBD3mvL?usp=drive_link).
 
 You need to organize the file structure as follows:
 
@@ -215,6 +229,11 @@ We have provided 10 examples in `./example` obtained from inference code. One of
 ## :bookmark_tabs: Citation
 
 If you find this repository useful, please give us stars and use the following BibTeX entry for citation.
+
+```
+@ARTICLE{,
+}
+```
 
 <br>
 
