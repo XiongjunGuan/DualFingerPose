@@ -15,13 +15,7 @@
 <br>
 
 
-<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white" /> 
-<img alt="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>  
-<img alt="License" height="25" src="https://img.shields.io/badge/License-MIT-yellow" /> 
-
-<a href="https://drive.google.com/file/d/13swViPqI8LNRa98-6YRdnxVGMY_9kakf/view?usp=drive_link">
-  <img alt="Demo Video" height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" />
-</a>
+<img alt="PyTorch" height="25" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white" /> <img alt="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>  <img alt="License" height="25" src="https://img.shields.io/badge/License-MIT-yellow" />  <a href="https://drive.google.com/file/d/13swViPqI8LNRa98-6YRdnxVGMY_9kakf/view?usp=drive_link"><img alt="Demo Video" height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" /></a>
 
 
 
