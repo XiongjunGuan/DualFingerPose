@@ -74,7 +74,7 @@ tqdm==4.66.1
 
 ## :train: Train
 
-:lock:  <span style="background-color:DarkSeaGreen;">Due to potential business collaborations, we are not considering disclosing training details at this time.</span>
+:lock:  <mark>Due to potential business collaborations, we are not considering disclosing training details at this time.</mark>
 
 
 ### :pushpin: Image to 2D pose
