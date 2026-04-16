@@ -25,7 +25,13 @@
 
 - **_T-MC 26_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices](https://ieeexplore.ieee.org/abstract/document/11263993)
 
-<a src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/pdf/2511.17306" height="25"> <img height="25" src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red"> </a> <a href="https://drive.google.com/file/d/13swViPqI8LNRa98-6YRdnxVGMY_9kakf/view?usp=drive_link"><img alt="Demo Video" height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" /></a>
+<a href="https://arxiv.org/pdf/2511.17306">
+  <img height="25" src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red">
+</a>
+
+<a href="https://drive.google.com/file/d/13swViPqI8LNRa98-6YRdnxVGMY_9kakf/view?usp=drive_link">
+  <img height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white">
+</a>
 
 [Xiongjun Guan](https://xiongjunguan.github.io/), Zhiyu Pan, Jianjiang Feng, Jie Zhou
 
