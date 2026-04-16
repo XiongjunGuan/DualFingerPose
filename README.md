@@ -23,13 +23,9 @@
 
 ### :speech_balloon: This repo is the official implementation of:
 
-<<<<<<< HEAD
-- **_TMC 2025_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices]()
-=======
-- **_T-MC 26_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices]()
+- **_T-MC 26_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices](https://ieeexplore.ieee.org/abstract/document/11263993)
 
 <a src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/pdf/2511.17306" height="25"> <img height="25" src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red"> </a> <a href="https://drive.google.com/file/d/13swViPqI8LNRa98-6YRdnxVGMY_9kakf/view?usp=drive_link"><img alt="Demo Video" height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" /></a>
->>>>>>> update info
 
 [Xiongjun Guan](https://xiongjunguan.github.io/), Zhiyu Pan, Jianjiang Feng, Jie Zhou
 
@@ -233,7 +229,6 @@ We have provided 10 examples in `./example` obtained from inference code. One of
 If you find this repository useful, please give us stars and use the following BibTeX entry for citation.
 
 ```
-<<<<<<< HEAD
 @ARTICLE{guan2025bifingerpose,
 author={Guan, Xiongjun and Pan, Zhiyu and Feng, Jianjiang and Zhou, Jie},
 journal={ IEEE Transactions on Mobile Computing },
@@ -248,17 +243,6 @@ url = {https://doi.ieeecomputersociety.org/10.1109/TMC.2025.3635417},
 publisher={IEEE Computer Society},
 address={Los Alamitos, CA, USA},
 month=nov}
-=======
-@ARTICLE{guan2026bifingerpose
-    author={Guan, Xiongjun and Pan, Zhiyu and Feng, Jianjiang and Zhou, Jie},
-    journal={IEEE Transactions on Mobile Computing}, 
-    title={{BiFingerPose}: Bimodal Finger Pose Estimation for Touch Devices}, 
-    year={2026},
-    volume={25},
-    number={5},
-    pages={6185-6201},
-}
->>>>>>> update info
 ```
 
 <br>
