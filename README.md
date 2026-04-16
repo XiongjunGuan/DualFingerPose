@@ -235,20 +235,15 @@ We have provided 10 examples in `./example` obtained from inference code. One of
 If you find this repository useful, please give us stars and use the following BibTeX entry for citation.
 
 ```
-@ARTICLE{guan2025bifingerpose,
-author={Guan, Xiongjun and Pan, Zhiyu and Feng, Jianjiang and Zhou, Jie},
-journal={ IEEE Transactions on Mobile Computing },
-title={{ BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices }},
-year={5555},
-volume={},
-number={01},
-ISSN={1558-0660},
-pages={1-17},
-doi={10.1109/TMC.2025.3635417},
-url = {https://doi.ieeecomputersociety.org/10.1109/TMC.2025.3635417},
-publisher={IEEE Computer Society},
-address={Los Alamitos, CA, USA},
-month=nov}
+@ARTICLE{guan2026bifingerpose,
+  author={Guan, Xiongjun and Pan, Zhiyu and Feng, Jianjiang and Zhou, Jie},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={{BiFingerPose}: Bimodal Finger Pose Estimation for Touch Devices}, 
+  year={2026},
+  volume={25},
+  number={5},
+  pages={6185-6201},
+  doi={10.1109/TMC.2025.3635417}}
 ```
 
 <br>
