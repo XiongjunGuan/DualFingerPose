@@ -25,13 +25,27 @@
 
 - **_T-MC 26_**: [BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices](https://ieeexplore.ieee.org/abstract/document/11263993)
 
-<a href="https://arxiv.org/pdf/2511.17306" style="text-decoration: none;"><img height="25" src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red"></a> <a href="https://drive.google.com/..." style="text-decoration: none;"><img height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
+<a href="https://arxiv.org/pdf/2511.17306" style="text-decoration: none;"><img height="25" src="https://img.shields.io/badge/cs.CV-2511.17306-b31b1b?logo=arxiv&logoColor=red"></a> <a href="https://drive.google.com/drive/folders/1ccnuC8Ck1EkFTtuAcNZtUKDrmJBD3mvL" style="text-decoration: none;"> <img height="25" src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"> </a>
 
 [Xiongjun Guan](https://xiongjunguan.github.io/), Zhiyu Pan, Jianjiang Feng, Jie Zhou
+
+
+---
+
+## Demo
+
+<p>
+    <img src="./images/demo.PNG" width=90%>
+</p>
+
+🎬 Demo video is available [here](https://drive.google.com/drive/folders/1ccnuC8Ck1EkFTtuAcNZtUKDrmJBD3mvL).
+
 
 ---
 
 ## :art: Introduction
+
+
 
 We propose a **Bi**modal based **Finger** **Pose** estimation algorithm, termed **BiFingerPose**, which achieves precise and stable predictions for all degrees of freedom in 2D/3D pose parameters.
 Concretely, we first designed a convolutional neural network to predict the 2D finger pose, and subsequently mapped it to the 3D pose using our proposed pose transformation function.
@@ -252,5 +266,5 @@ This project is released under the MIT license. Please see the LICENSE file for 
 
 ## :mailbox: Contact Me
 
-If you have any questions about the code, please contact Xiongjun
-Guan gxj21@mails.tsinghua.edu.cn
+If you have any questions about the code, please contact:
+Xiongjun Guan gxj21@mails.tsinghua.edu.cn
